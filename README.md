@@ -18,4 +18,4 @@ Here are some examples:
  
  ## Pistol
  <img src="pistolAnim.gif" width = "500">  
- This application was for a game that I'm making within unity. It introduced me to keyframe animation within blender through using a timeline sequencer and the action editor. 
+ This application was for a game that I'm making within unity. It introduced me to keyframe animation within blender through using a timeline sequencer and the action editor. (Check out the video for a better fps/resolution)
