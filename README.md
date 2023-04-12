@@ -4,6 +4,11 @@
 Mainly consists of hard surface modeling. These are exercises to learn more about the 3d content creation pipeline. 
   
 Here are some examples:  
+
+ ## Venom in a bottle:  
+<img src="Venom.png" width = "500">  
+ With this scene, I learned the basics of sculpting. I mainly used the snake hook and smoothing brushes. Additionally, it was an opportunity to refine my hard-surface modeling skills while creating the blockout and the bottle.
+ 
  ## Desert Planet:  
 <img src="Desert.png" width = "500">  
  This render taught me the basics of navigating within blender as well as using simple shapes to make interesting visual.   
