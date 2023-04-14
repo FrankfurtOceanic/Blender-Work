@@ -5,6 +5,10 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Cubes:
+<img src="glass cubes.png" width = "500">  
+For this image, I wanted to try using a wide variety of materials including glass while improving my composition and lighting.   
+
  ## Venom in a bottle:  
 <img src="Venom.png" width = "500">  
  With this scene, I learned the basics of sculpting. I mainly used the snake hook and smoothing brushes. Additionally, it was an opportunity to refine my hard-surface modeling skills while creating the blockout and the bottle.
