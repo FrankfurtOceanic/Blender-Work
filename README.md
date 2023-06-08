@@ -5,6 +5,11 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Texture Painting:
+<img src="Evil cube.png" width = "500">    <img src="Evil cube1.png" width = "500">  
+This was an introduction to texture painting and my first time using a drawing tablet. I was influenced by Arcane's artstyle and watching Spiderverse.
+
+
 ## Cubes:
 <img src="glass cubes.png" width = "500">  
 For this image, I wanted to try using a wide variety of materials including glass while improving my composition and lighting.   
