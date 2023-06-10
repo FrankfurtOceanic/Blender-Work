@@ -9,8 +9,9 @@ Here are some examples:
 <img src="Evil cube.png" width = "400">    <img src="Evil cube1.png" width = "400">  
 This was an introduction to texture painting and my first time using a drawing tablet. I was influenced by Arcane's artstyle and watching Spiderverse.
 
-I did some further work with a study on water melon and a full scene with an x-wing. I find it useful to use the render preview in order to gauge how the light and shadow should be painted.
-<img src="watermelon.png" width = "400">    <img src="xwing.png" width = "400">  
+I did some further work with a study on water melon and a full scene with an x-wing. I find it useful to use the render preview in order to gauge how the light and shadow should be painted. 
+
+<img src="watermelon.png" height = "230">    <img src="xwing.png" width = "400">  
 
 ## Cubes:
 <img src="glass cubes.png" width = "500">  
