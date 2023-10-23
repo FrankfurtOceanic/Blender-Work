@@ -5,6 +5,25 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Hyper Light Difter:
+
+
+https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/f0b581a2-7ee2-44de-aca9-feb919fee125  
+
+This was my submision to pwnisher's boss fight 3d render challenge. I modelled, rigged, textured, and animated everything myself. I learned a lot along the way and I am proud of the progress I made as an artist.
+
+## Flower:
+<img src="Flower2.png" width = "500"> 
+For this render I learned how use Blender's hair particle system. Additionally, I refined my ability to light the subject in an interestingw way for a satifying render.
+
+## Wizard Boy:
+<img src="lil wizard dood.png" width = "500"> 
+I tried scultping a stylized character but still using realistic materials. I got more comfortable scultping clothes. I'll hopefully rig him soon :)
+
+## Mountain Keep: 
+<img src="Mountain Cycles great.png" width = "500">  
+This taught me a lot about composition and materials. 
+
 ## Texture Painting:
 <img src="Evil cube.png" width = "400">    <img src="Evil cube1.png" width = "400">  
 This was an introduction to texture painting and my first time using a drawing tablet. I was influenced by Arcane's artstyle and watching Spiderverse.
