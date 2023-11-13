@@ -5,6 +5,11 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Yggdrasil:
+
+<img src="yggdrasil.png" width = "1000"> 
+For this piece, I tried to become more comfortable with transparent materials. I used volumetrics for the background and tree leaves. Additionally, I used a refractive glass shader for the trunk and branches. Inside each branch, I added an emissive vein that represents the energy coursing through the tree. A particle system was used to create the stars.
+
 ## Hyper Light Difter:
 
 
