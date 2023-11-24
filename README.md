@@ -5,6 +5,20 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Furballs:
+
+https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/8c97e144-6206-4294-bdbe-7eec09361e6f  
+
+I experimented using clothsims with pressures and internal springs as well as hair systems to create a satifying render. This is also the first time I frame the shot in portrait mode (intended for mobile viewing). This is by far the longest render I've had. It's given me motive to find ways of speeding up renders for animations and hair systems.
+## Rigidbody motion graphics:
+
+https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/1c13cade-62c9-4b54-9c2b-92ecb1a77324
+
+
+I learned how to control rigidbodies using forces as well as adding colliders. The popping effect was achieved by making objects very small and scaling them back to normal in 1 frame. This scene also helped me get a better control of lighting setups and my camera setup.
+
+
+
 ## Yggdrasil:
 
 <img src="yggdrasil.png" width = "1000"> 
