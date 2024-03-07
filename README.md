@@ -5,6 +5,32 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Eternal Ascent
+
+This part of an animation I'm working on within unreal. It's for pwnisher's 3d render challenge. As part of the scene, I have a cathedral that get's struck by energy. I already had the asset so I took it upon myself to learn how to animate with drivers. I split the model and did some parenting to end up with this
+
+https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/06a2c34c-a7bb-4a6d-8418-c13347ac1f31
+
+
+## Valentine's Day
+
+This was an animation I did for my girlfriend. This was my first time using mocap! I used rokoko video to generate the the motion. Afterwards, I retargeted to my skeleton and cleaned up the animation. 
+
+
+https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/68a9830d-2f18-4b8e-9098-2cd3941d673c
+
+
+I got to know Blender's hair and grooming systems to make the character. 
+
+<img src="Valentines/Otter%20Furr.png" width = "500"> 
+
+Lastly, I did a bit of "Vehicle" type rigging to get the cart to move well. 
+
+
+https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/c36e463c-2e76-46e1-a7d8-c06d9b9f2689
+
+
+
 ## Furballs:
 
 https://github.com/FrankfurtOceanic/Blender-Work/assets/83598831/8c97e144-6206-4294-bdbe-7eec09361e6f  
