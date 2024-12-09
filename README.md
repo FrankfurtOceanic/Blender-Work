@@ -5,6 +5,23 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Soulless
+
+These vfx shots were done for musician Nyota Parker for her music video of the song [Soulless](https://www.youtube.com/watch?v=HO8XB8nNnrM&ab_channel=NyotaParkerVEVO). I started using an EXR workflow to allow for further flexibility in the composite stage.
+The first shot was a fully cg shot of the story book pages flipping to reveal the witch's castle. I worked hard texturing the book itself and creating a shader to mimic old paper. Additionally, I did a cloth simulation for when the book opens on the table. To finish off the shot, I added volumetrics, a dust particle system and gobos to accent the lighting. 
+
+<img src="Soulles-Nyota-Parker/book_1.png" width = "500">  <img src="Soulles-Nyota-Parker/book_2.png" width = "500"> 
+
+Next I worked on the thought bubble shot. I created a volume from a simple mesh and added various size of noise as displacement to get different levels of detail. I then animated this noise to get the contained movement. In order to create the mask, I created a material to tell proximity to the surface and rerendered the sequence.   
+
+<img src="Soulles-Nyota-Parker/Thought_Bubble_element.png" width = "500">  <img src="Soulles-Nyota-Parker/cloud_density_mask.png" width = "500">  
+
+The last shot involved a portal. For this, I created a looping smoke simulation by overlapping the sim with itself. With the use of clever masks, I was also able to make it seemless. From there, I mapped it to a cylindrical mesh. By layering this effect and adding particles, here is the result I was able to achieve.  
+
+<img src="Soulles-Nyota-Parker/portal_element.png" width = "500">  <img src="Soulles-Nyota-Parker/SeamlessSmokeTexture.png" width = "500"> 
+
+
+
 ## Eternal Ascent
 
 This part of an animation I'm working on within unreal. It's for pwnisher's 3d render challenge. As part of the scene, I have a cathedral that get's struck by energy. I already had the asset so I took it upon myself to learn how to animate with drivers. I split the model and did some parenting to end up with this
