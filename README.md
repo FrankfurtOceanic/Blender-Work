@@ -5,6 +5,19 @@ Mainly consists of hard surface modeling. These are exercises to learn more abou
   
 Here are some examples:  
 
+## Glass Dispersion
+By adding refraction shaders with different IOR, I was able to achieve an interesting glass material. Combining with a glass BRDF made for a fun lighting challenger.   
+<img src="Glass_Dispersion/teeth.png" width = "500"> 
+
+
+https://github.com/user-attachments/assets/a6b2b9d3-5b3a-481a-8164-0cb690965eb3
+
+## Fluid Knight
+I wanted to explore more of Houdini's simulation worklfow and combine it with a glossy aesthetic. I created a flip sim by converting my knight mesh to a vdb and remeshing back to act as the collider. From there, I added an emmitter to obtain the flip particle output. To finilize it, I created a mesh from the particle points. Adding a transparent material and glossy shader to knight led me to interesting visualise. The high reflectance led to me putting more effort into the lighting but gave it a really cool look that I want to explore more. In the end, I'm happy with the a cool render I came out with and the added new Houdini knowledge :)
+
+<img src="Glass_Dispersion/glossy_statue.png" width = "500"> <img src="Glass_Dispersion/statue_liquid_sim_houdini.png" width = "500"> 
+
+
 ## Soulless
 
 These vfx shots were done for musician Nyota Parker for her music video of the song [Soulless](https://www.youtube.com/watch?v=HO8XB8nNnrM&ab_channel=NyotaParkerVEVO). I started using an EXR workflow to allow for further flexibility in the composite stage.
