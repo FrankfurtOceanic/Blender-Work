@@ -17,6 +17,13 @@ I wanted to explore more of Houdini's simulation worklfow and combine it with a 
 
 <img src="Glass_Dispersion/glossy_statue.png" width = "500"> <img src="Glass_Dispersion/statue_liquid_sim_houdini.png" width = "500"> 
 
+## Wigglies
+
+This was a small idea I came up with trying to toe the line between satisfying and strange. I created a cloth sim with internal springs. It was also an opportunity to practice looping animations. Lastly, I tried doing my own sound design which was fun to put together. 
+
+
+https://github.com/user-attachments/assets/e8f74483-422f-4dda-9a29-3d359f0d23b6
+
 
 ## Soulless
 
